@@ -1,0 +1,14 @@
+{
+  "name": "block-chain-app",
+  "version": "1.0.0",
+  "description": "blockchain js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Trajkovic",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
